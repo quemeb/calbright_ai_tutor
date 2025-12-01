@@ -123,7 +123,7 @@ calbright_ai_tutor/
 ├── requirements.txt
 ├── .env.example
 └── README.md
-
+```
 ---
 
 ## ▶️ Running the Tutor Locally
