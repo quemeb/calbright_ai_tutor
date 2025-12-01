@@ -1,0 +1,12 @@
+faiss-cpu==1.7.4
+sentence-transformers==2.5.1
+numpy==1.26.4
+pdfplumber>=0.11
+PyPDF2>=3.0
+python-docx>=1.0.0
+google-genai>=1.0.0
+protobuf>=4.25
+python-dotenv>=1.0
+requests>=2.31
+tqdm>=4.66
+google-adk>=1.4.2

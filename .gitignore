@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# FAISS build files (optional — but keep your embeddings folder)
+build/
+dist/
+data/ 
+
+# OS
+.DS_Store
+Thumbs.db
